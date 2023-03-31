@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.1_14", "Task6.1_14\Task6.1_14.csproj", "{E9F2715C-5BD5-4168-AD4C-0427416BF44F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterLib", "PrinterLib\PrinterLib.csproj", "{0A2E67E3-7436-4602-B6D3-340A8B0173CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9F2715C-5BD5-4168-AD4C-0427416BF44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F2715C-5BD5-4168-AD4C-0427416BF44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F2715C-5BD5-4168-AD4C-0427416BF44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F2715C-5BD5-4168-AD4C-0427416BF44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2E67E3-7436-4602-B6D3-340A8B0173CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2E67E3-7436-4602-B6D3-340A8B0173CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2E67E3-7436-4602-B6D3-340A8B0173CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2E67E3-7436-4602-B6D3-340A8B0173CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
