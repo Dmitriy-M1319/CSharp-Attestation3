@@ -1,5 +1,5 @@
 ﻿<linker>
   <!-- Can be removed if CompiledBinding and no reflection are used -->
-  <assembly fullname="Task6._1_14" preserve="All" />
+  <assembly fullname="Task6._1" preserve="All" />
   <assembly fullname="Avalonia.Themes.Fluent" preserve="All" />
 </linker>
