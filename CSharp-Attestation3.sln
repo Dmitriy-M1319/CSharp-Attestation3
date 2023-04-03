@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterLib", "PrinterLib\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionTest", "ReflectionTest\ReflectionTest.csproj", "{89E622F8-C35F-4414-8FDA-AC7C7E6DFC6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.1", "Task6.1\Task6.1.csproj", "{15EF4DB3-EC75-4453-8B24-4D3180B76B75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6_1", "Task6_1\Task6_1.csproj", "{15EF4DB3-EC75-4453-8B24-4D3180B76B75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

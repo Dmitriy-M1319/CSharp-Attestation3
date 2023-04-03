@@ -5,6 +5,7 @@
         <Nullable>enable</Nullable>
         <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
         <ApplicationManifest>app.manifest</ApplicationManifest>
+        <RootNamespace>Task6.1</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
         <None Remove=".gitignore" />

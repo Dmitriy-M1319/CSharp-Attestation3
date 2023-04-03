@@ -5,6 +5,11 @@ public class LazerPrinter: Printer
     public string PrinterName { get; set; }
     public int PaperCount { get; set; } = 0;
 
+    public LazerPrinter()
+    {
+        PrinterName = "printer1";
+        PaperCount = 53;
+    }
     public LazerPrinter(string name, int startPaperCount)
     {
         PrinterName = name;

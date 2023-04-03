@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace Task6._1;
+namespace Task6_1;
 
 class Program
 {

@@ -2,7 +2,7 @@ using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
 
-namespace Task6._1;
+namespace Task6_1;
 
 public partial class App : Application
 {

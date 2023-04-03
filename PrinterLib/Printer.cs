@@ -8,7 +8,10 @@ public abstract class Printer: IPrintingDevice
 
     public string Print()
     {
-        throw new NotImplementedException();
+        string result = "Сообщение от Printer:\n";
+        foreach (var document in Documents)
+            result += document + "\n";
+        return result;
     }
 
     public int GetPrintingStatus()
